@@ -1,44 +1,38 @@
 # Project Title
 
-Simple overview of use/purpose.
+ETF_TRACKING
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Inspired by hack the markets, this is a test repostiroy for stock data,etf holdings, and stock prices, scripts within this repository will eventually be a part of the backend of a full stack web trader
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. 
+requirements.txt
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+python -m venv venv
+
+pip install -r requirements.txt
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+* Coming Soon
+
 ```
-code blocks for commands
+Coming Soon
 ```
 
 ## Help
 
 Any advise for common problems or issues.
 ```
-command to run if program contains helper info
+COMING SOON
 ```
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. []()
 
 ## Version History
 
