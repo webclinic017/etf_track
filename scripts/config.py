@@ -1,11 +1,11 @@
-API_URL = ""
-API_KEY = ""
-API_SECRET = ""
+API_URL = "https://paper-api.alpaca.markets"
+API_KEY = "PKYOEM7T977CUQ8FM1YI"
+API_SECRET = "TapE7txsPHEIVotzvodLEFLD5a2AblUPk1WKMUmi"
 
-DB_HOST = ""
-DB_USER = ""
-DB_PASS = ""
-DB_NAME = ""
+DB_HOST = "localhost"
+DB_USER = "postgres"
+DB_PASS = "9328370Aeropress"
+DB_NAME = "etfdb"
 
 
 ACCOUNT_ID = ''
