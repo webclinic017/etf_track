@@ -6,7 +6,7 @@ import psycopg2.extras
 import pandas as pd
 from sqlalchemy import create_engine
 
-engine = create_engine('postgresql://postgres:password@localhost:5432/etfdb')
+engine = create_engine(f'postgresql://{config.DB_USER}:{config.DB_PASS}@{config.DB_HOST}:5432/{config.DB_NAME}')
 
 connection = engine.connect()
 
@@ -21,7 +21,7 @@ api = REST(config.API_KEY,config.API_SECRET,base_url=config.API_URL)
 
 for r in stock_dict:
     try:
-        df = api.get_bars(r['symbol'], TimeFrame(5, TimeFrameUnit.Minute), "2020-10-01", "2022-04-06", adjustment='raw').df
+        df = api.get_bars(r['symbol'], TimeFrame(1, TimeFrameUnit.Minute), "2022-01-01", "2022-04-08", adjustment='raw').df
         if len(df) > 0:
             df['stock_id'] = r['id']
             df = df.reset_index()
