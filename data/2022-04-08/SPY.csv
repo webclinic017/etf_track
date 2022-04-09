@@ -1,0 +1,101 @@
+symbol,name,percent,shares,fund
+AAPL,Apple Inc,7.01,N/A,SPY
+MSFT,Microsoft Corp,5.94,N/A,SPY
+AMZN,Amazon.com Inc,3.63,N/A,SPY
+TSLA,Tesla Inc,2.33,N/A,SPY
+GOOGL,Alphabet Cl A,2.15,N/A,SPY
+GOOG,Alphabet Cl C,1.99,N/A,SPY
+BRK.B,Berkshire Hathaway Cl B,1.67,N/A,SPY
+NVDA,Nvidia Corp,1.59,N/A,SPY
+FB,Meta Platforms Inc,1.35,N/A,SPY
+UNH,Unitedhealth Group Inc,1.33,N/A,SPY
+JNJ,Johnson & Johnson,1.26,N/A,SPY
+JPM,JP Morgan Chase & Company,1.02,N/A,SPY
+PG,Procter & Gamble Company,1.00,N/A,SPY
+XOM,Exxon Mobil Corp,0.95,N/A,SPY
+V,Visa Inc,0.94,N/A,SPY
+CVX,Chevron Corp,0.85,N/A,SPY
+HD,Home Depot,0.83,N/A,SPY
+PFE,Pfizer Inc,0.81,N/A,SPY
+ABBV,Abbvie Inc,0.81,N/A,SPY
+MA,Mastercard Inc,0.79,N/A,SPY
+BAC,Bank of America Corp,0.74,N/A,SPY
+COST,Costco Wholesale,0.71,N/A,SPY
+AVGO,Broadcom Ltd,0.65,N/A,SPY
+KO,Coca-Cola Company,0.65,N/A,SPY
+LLY,Eli Lilly and Company,0.64,N/A,SPY
+TMO,Thermo Fisher Scientific Inc,0.63,N/A,SPY
+DIS,Walt Disney Company,0.63,N/A,SPY
+PEP,Pepsico Inc,0.63,N/A,SPY
+CSCO,Cisco Systems Inc,0.61,N/A,SPY
+WMT,Walmart Inc,0.58,N/A,SPY
+VZ,Verizon Communications Inc,0.58,N/A,SPY
+MRK,Merck & Company,0.58,N/A,SPY
+ABT,Abbott Laboratories,0.57,N/A,SPY
+ACN,Accenture Plc,0.57,N/A,SPY
+ADBE,Adobe Systems Inc,0.56,N/A,SPY
+CMCSA,Comcast Corp A,0.56,N/A,SPY
+CRM,Salesforce Inc,0.52,N/A,SPY
+INTC,Intel Corp,0.51,N/A,SPY
+DHR,Danaher Corp,0.50,N/A,SPY
+MCD,McDonald's Corp,0.50,N/A,SPY
+WFC,Wells Fargo & Company,0.49,N/A,SPY
+NEE,Nextera Energy,0.45,N/A,SPY
+AMD,Adv Micro Devices,0.45,N/A,SPY
+T,AT&T Inc,0.45,N/A,SPY
+BMY,Bristol-Myers Squibb Company,0.44,N/A,SPY
+NKE,Nike Inc,0.43,N/A,SPY
+TXN,Texas Instruments,0.43,N/A,SPY
+LIN,Linde Plc,0.43,N/A,SPY
+NFLX,Netflix Inc,0.42,N/A,SPY
+QCOM,Qualcomm Inc,0.41,N/A,SPY
+UNP,Union Pacific Corp,0.41,N/A,SPY
+PM,Philip Morris International Inc,0.41,N/A,SPY
+MDT,Medtronic Inc,0.40,N/A,SPY
+RTX,Raytheon Technologies Corp,0.40,N/A,SPY
+SPGI,S&P Global Inc,0.39,N/A,SPY
+AMGN,Amgen Inc,0.37,N/A,SPY
+UPS,United Parcel Service,0.37,N/A,SPY
+INTU,Intuit Inc,0.37,N/A,SPY
+LOW,Lowe's Companies,0.36,N/A,SPY
+CVS,CVS Corp,0.36,N/A,SPY
+HON,Honeywell International Inc,0.35,N/A,SPY
+PYPL,Paypal Holdings,0.35,N/A,SPY
+COP,Conocophillips,0.34,N/A,SPY
+ORCL,Oracle Corp,0.34,N/A,SPY
+PLD,Prologis Inc,0.33,N/A,SPY
+ANTM,Anthem Inc,0.33,N/A,SPY
+AMT,American Tower Corp,0.32,N/A,SPY
+SCHW,The Charles Schwab Corp,0.32,N/A,SPY
+MS,Morgan Stanley,0.31,N/A,SPY
+CAT,Caterpillar Inc,0.31,N/A,SPY
+IBM,International Business Machines,0.30,N/A,SPY
+DE,Deere & Company,0.30,N/A,SPY
+LMT,Lockheed Martin Corp,0.30,N/A,SPY
+AXP,American Express Company,0.29,N/A,SPY
+TGT,Target Corp,0.29,N/A,SPY
+AMAT,Applied Materials,0.29,N/A,SPY
+BLK,Blackrock Inc,0.28,N/A,SPY
+GS,Goldman Sachs Group,0.28,N/A,SPY
+NOW,Servicenow Inc,0.28,N/A,SPY
+ISRG,Intuitive Surg Inc,0.27,N/A,SPY
+ADP,Automatic Data Procs,0.26,N/A,SPY
+C,Citigroup Inc,0.26,N/A,SPY
+GE,General Electric Company,0.26,N/A,SPY
+MO,Altria Group,0.26,N/A,SPY
+BA,Boeing Company,0.26,N/A,SPY
+SBUX,Starbucks Corp,0.25,N/A,SPY
+ZTS,Zoetis Inc Cl A,0.25,N/A,SPY
+CB,Chubb Ltd,0.24,N/A,SPY
+BKNG,Booking Holdings Inc,0.24,N/A,SPY
+SYK,Stryker Corp,0.24,N/A,SPY
+DUK,Duke Energy Corp,0.23,N/A,SPY
+CME,CME Group Inc,0.23,N/A,SPY
+MDLZ,Mondelez Intl Inc,0.23,N/A,SPY
+MMC,Marsh & Mclennan Companies,0.23,N/A,SPY
+MMM,3M Company,0.23,N/A,SPY
+ADI,Analog Devices,0.22,N/A,SPY
+CCI,Crown Castle International Corp,0.22,N/A,SPY
+CI,Cigna Corp,0.22,N/A,SPY
+MU,Micron Technology,0.22,N/A,SPY
+SO,Southern Company,0.21,N/A,SPY
