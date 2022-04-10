@@ -1,14 +1,4 @@
-# TimeScale Queries, aiohttp and asyncpg tutorials
 
---asyncpg and aiohttp video
-
-https://www.youtube.com/watch?v=2utibYV3oxA
-
---TimeScale and PostgreSQL analytics and aggregates video
-
-https://www.youtube.com/watch?v=BrYe-4QWjdc
-
---Queries
 
 #--Find a Stock We are Interested In
 
