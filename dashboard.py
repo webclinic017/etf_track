@@ -36,4 +36,4 @@ st.header(option)
 df = pd.read_csv('data/2022-04-08/SPYD.csv')
 
 st.dataframe(df)
-st.image('https://sporttechie-prod.s3.amazonaws.com/SOTI%202021%20-%20Pro%20Videos/pro_ws-_oracle.png')
+#st.image('')
